@@ -1,0 +1,50 @@
+#intro{
+  background:#1f2800;
+  font-size: 20px;
+  color: white;
+  padding-bottom: 100px;
+  }
+
+#about{
+  background: #505800;
+  font-size: 20px;
+  color: white;
+  padding-bottom: 100px;
+
+}
+
+#our-team{
+  background: #383f00;
+  font-size: 20px;
+color: white;
+padding-bottom: 100px;
+}
+
+#contact{
+  background: #7c7a2f;
+  font-size: 20px;
+  color: white;
+  padding-bottom: 100px;
+}
+
+
+.page-header{
+  padding-top: 100px;
+}
+.no-padding{
+  padding-right:0;
+  padding-left:0;
+}
+
+.jumbotron-heading{
+  background-image: url('../bear-images/bear-fur.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  margin-bottom: 0px;
+}
+
+footer{
+  padding-top: 70px;
+  margin: 50px 0;
+}

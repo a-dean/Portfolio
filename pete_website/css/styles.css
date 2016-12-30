@@ -1,0 +1,66 @@
+/* your css here */
+body{
+background-image: url("../pete-images/cube-pattern-gray.jpg");
+}
+
+#mainNav{
+background-color: #F4D03F;
+color: #212f3d;
+font-size: 20px;
+font-family:Helvetica;
+}
+
+
+.navbar-brand{
+  color: #212f3d;
+  font-family:Bowlby One SC;
+  font-size: 40px;
+}
+
+h1{
+  font-family: Helvetica;
+  font-size: 50px;
+  color: #212F3D;
+  margin-left: 20px;
+}
+
+.section-heading{
+  font-family: Helvetica;
+  font-weight: 700;
+  color: #fff;
+font-size: 40px;
+
+}
+
+.section-subheading{
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  color:##a6a6a6;
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+#about, #gallery, #contact{
+  padding-top: 250px;
+  width: 75%;
+  background-color:#111111;
+}
+.thumbnail{
+  margin-bottom: 30px;
+}
+p{
+  font-size: 14px;
+  color:white;
+}
+
+footer{
+  position:relative;
+  padding-top: 50px;
+  max-width: 100%;
+  background-color:#F4D03F;
+}
+#footer-p{
+  font-size: 26px;
+  color: black;
+}
